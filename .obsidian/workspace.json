@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Test.md"
               }
             }
           }
@@ -157,12 +157,12 @@
   },
   "active": "1e73d47937ca8375",
   "lastOpenFiles": [
+    "content/_index.md",
     "config.toml.sb-fdbe754b-9AADsP",
     "content/notes/Test.md",
     "content/notes/updating.md",
     "content/notes/editing.md",
     "content/notes/callouts.md",
-    "content/_index.md",
     "content/notes/hosting.md",
     "content/notes/search.md",
     "content/notes/preview changes.md",
