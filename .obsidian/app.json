@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "content/notes/images"
+  "attachmentFolderPath": "content/notes/images",
+  "newLinkFormat": "absolute"
 }
