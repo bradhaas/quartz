@@ -4,26 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d988f57c4f5a5426",
+        "id": "49e894cd9d975162",
         "type": "tabs",
         "children": [
           {
-            "id": "d9d4b42573a25d9f",
+            "id": "bb896ef4f4e75919",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/notes/images/github-pages.png"
-              }
-            }
-          },
-          {
-            "id": "1e73d47937ca8375",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "content/notes/images/github-pages.png"
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/images/github-pages.png",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/images/github-pages.png",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/images/github-pages.png"
+                "file": "content/_index.md"
               }
             }
           }
@@ -154,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9d4b42573a25d9f",
+  "active": "bb896ef4f4e75919",
   "lastOpenFiles": [
-    "content/_index.md",
+    "content/notes/images/Pasted image 20230515171013.png",
     "content/notes/Test.md",
-    "content/notes/images/Pasted image 20230515170304.png",
+    "content/_index.md",
     "content/notes/images/github-pages.png",
+    "content/notes/images/Pasted image 20230515170304.png",
     "config.toml.sb-fdbe754b-9AADsP",
     "content/notes/updating.md",
     "content/notes/editing.md",
