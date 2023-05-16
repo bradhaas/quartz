@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "content/notes/images",
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true
 }

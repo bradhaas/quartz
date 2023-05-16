@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb896ef4f4e75919",
+  "active": "315cf965deead6bf",
   "lastOpenFiles": [
-    "content/notes/images/Pasted image 20230515171013.png",
-    "content/notes/Test.md",
+    "content/private/private-note.md",
+    "content/templates/post.md",
     "content/_index.md",
+    "content/notes/images/Pasted image 20230515171013.png",
+    "content/Test.md",
     "content/notes/images/github-pages.png",
     "content/notes/images/Pasted image 20230515170304.png",
     "config.toml.sb-fdbe754b-9AADsP",
